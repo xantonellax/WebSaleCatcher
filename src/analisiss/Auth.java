@@ -5,8 +5,8 @@ public class Auth {
   public static void main(String[] args) {
 	  
     Scanner sc = new Scanner(System.in);
-    String usuarioCorrecto = "Ingrese su correo electronico";
-    String passwordCorrecto = "Ingrese su contraseña";
+    String usuarioCorrecto = "digite su correo electronico";
+    String passwordCorrecto = "digite su contraseña";
     String usuario, password;
 
     System.out.println("Bienvenido a la página web");
